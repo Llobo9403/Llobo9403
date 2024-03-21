@@ -1,16 +1,26 @@
-### Hi there 👋
+### Bem vindo(a) ao meu GitHub!
 
-<!--
-**Llobo9403/Llobo9403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Lucas, e estou empolgado em compartilhar meu trabalho e meus projetos aqui no GitHub. Sou apaixonado pela área da TI, curso Ciência da Computação e busco sempre aprender coisas novas e novas tecnologias.
 
-Here are some ideas to get you started:
+Este GitHub é o meu espaço para compartilhar projetos pessoais, contribuições para projetos de código aberto e experimentos interessantes que estou explorando. Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato se tiver alguma pergunta ou sugestão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado por visitar meu GitHub!
+
+at.te: Lucas
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lobo-776745260/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslobo_94/)
+
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Llobo9403&show_icons=true&theme=vue-dark)
+
+### Tecnologias mais usadas:
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="css3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="javascript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="nodejs"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alt="react-native"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="c"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="c++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt="mysql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
