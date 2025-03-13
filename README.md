@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Lucas, e estou empolgado em compartilhar meu trabalho e meus projetos aqui no GitHub. Sou apaixonado pela área da TI, curso Ciência da Computação e busco sempre aprender coisas novas e novas tecnologias.
 
-Este GitHub é o meu espaço para compartilhar projetos pessoais, contribuições para projetos de código aberto e experimentos interessantes que estou explorando. Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato se tiver alguma pergunta ou sugestão.
+Este perfil no GitHub é o meu espaço para compartilhar projetos pessoais, contribuições para projetos de código aberto e experimentos interessantes que estou explorando. Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato se tiver alguma pergunta ou sugestão.
 
 Obrigado por visitar meu GitHub!
 
