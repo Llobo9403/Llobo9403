@@ -1,4 +1,4 @@
-### Bem vindo(a) ao meu GitHub!
+### Bem vindo(a) ao meu perfil no GitHub!
 
 Olá! Meu nome é Lucas, e estou empolgado em compartilhar meu trabalho e meus projetos aqui no GitHub. Sou apaixonado pela área da TI, curso Ciência da Computação e busco sempre aprender coisas novas e novas tecnologias.
 
